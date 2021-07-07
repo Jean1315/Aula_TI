@@ -12,4 +12,4 @@ Esse sistema foi desenvolvido para realizar as intruções basicas de SQL (Selec
 
 05)Importe o arquivo mvc.slq em seu banco de dados.
 
-06)Inicialize a IDE e importe os arquivos anexados.
+06)Inicialize a IDE e importe os arquivos da pasta PHP_SITE.
